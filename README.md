@@ -12,7 +12,6 @@ A static frontend website mimicking the aesthetic of Instagram. Built using HTML
 * CSS - Styling & layout  
 
 ![Login Page](![Login Page](images/login-screenshot.png)
-![Register Page](images/register-screenshot.png))
-![Register Page](images/register-screenshot.png)
+
 
 
