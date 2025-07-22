@@ -15,5 +15,9 @@ A static frontend website mimicking the aesthetic of Instagram. Built using HTML
 
 ![Login Page](https://github.com/Dharmendra0305/Replica-of-Instagram/blob/de68d6fb3c775c3d7be5883bc59e48e48314da5f/127.0.0.1_5500-Login-Instagram-fpscreenshot.png)
 
+<h2>Registration Page</h2>
+
+![Register Page](https://github.com/Dharmendra0305/Replica-of-Instagram/blob/c5d573148e8292fef60f6b771e7518a59aaba445/127.0.0.1_5500-Registration%20Page-fpscreenshot.png)
+
 
 
